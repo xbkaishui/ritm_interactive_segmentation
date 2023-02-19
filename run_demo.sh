@@ -1,0 +1,1 @@
+python demo.py --checkpoint=./checkpoints/coco_lvis_h18_itermask.pth --cpu
